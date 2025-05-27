@@ -10,13 +10,13 @@ While this tool only calls a few Bitbucket API endpoints, there's no reason it c
 Install globally via npm:
 
 ```bash
-npm install -g @srt4rulez/bitbucket-multi-repo-management
+npm install -g @panirudh/bitbucket-multi-repo-management
 ```
 
 or yarn:
 
 ```bash
-yarn global add @srt4rulez/bitbucket-multi-repo-management
+yarn global add @panirudh/bitbucket-multi-repo-management
 ```
 
 You should now have `bmrm` available as a global executable.
